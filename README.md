@@ -1,28 +1,23 @@
-<img src="https://github.com/Joliwood/Joliwood/blob/main/Gruvbox%20theme%20coffee.png" width="100%" alt="profile banner"/>
+![Banner](https://github.com/Joliwood/Joliwood/blob/main/Gruvbox%20theme%20coffee.png?raw=true)
 
-<h1 align="center" border="none">Hi 👋, I'm Guillaume Jolibois</h1>
+# Hi 👋, I'm Guillaume Jolibois
 
-<h3 align="center">A passionate javascript developer from France</h3>
-<br />
+## A passionate javascript developer from France
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joliwood&label=Profile%20views&color=0e75b6&style=flat" alt="joliwood" /> </p>
-<br />
-<br />
+![Profile views](https://komarev.com/ghpvc/?username=joliwood&label=Profile%20views&color=0e75b6&style=flat)
 
-<ul align=center>
-<p> 🌐 My personnal portolio website https://guillaume-jolibois.fr/</p><br />
+🌐 My personnal portolio website [Link of my Portfolio](https://guillaume-jolibois.fr/)
 
-<p> 📫 Contact me at <a href="mailto:jolibois.contact@gmail.com">jolibois.contact@gmail.com</a> or at 06 64 36 21 79</p><br />
+📫 Contact me at [jolibois.contact@gmail.com](mailto:jolibois.contact@gmail.com) or at 06 64 36 21 79
 
-<p> 🌱 Take a look at my Github profile status to see what I am working / training on.</p><br />
+🌱 Take a look at my Github profile status to see what I am working / training on.
 
-<p> 👨‍💻 All of my projects are available at https://github.com/Joliwood?tab=repositories</p><br />
+👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Joliwood?tab=repositories)
 
-<p> :musical_score: Fun fact I am also an orchestral composer</p><br />
-</ul>
+:musical_score: Fun fact I am also an orchestral composer
 
 <br />
-<table align=center>
+<table>
 <tr>
 <th>Description</th>
 <th>Tools</th>
@@ -42,11 +37,12 @@
 <td><img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" height="30" /> <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="next js" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height='30'/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg" width="30" height='30'/>
 </td>
 </tr>
 <tr>
 <td>Tools I Use</td>
-<td><img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'  alt='visualstudiocode'  height='30'> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="GitHub" height="30" /> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/></td>
+<td><img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'  alt='visualstudiocode'  height='30'> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="GitHub" height="30" /> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" alt="mongodb" height="30"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" alt="webpack" height="30"/> </td>
 </tr>
 <tr>
 <td>Designing Tools I Use</td>
@@ -58,11 +54,8 @@
 </table>
 <br />
 
-<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api?username=joliwood&show_icons=true&locale=en&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true" alt="joliwood" /></p>
-<br />
+![Github stats](https://github-readme-stats.vercel.app/api?username=joliwood&show_icons=true&locale=en&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
 
-<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joliwood&show_icons=true&locale=en&layout=compact&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true"" alt="Top Langs" /></p>
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=joliwood&show_icons=true&locale=en&layout=compact&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
 
-<br />
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joliwood&&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true"" alt="joliwood's readme streaks" /></p>
-<br />
+![Strikes stats](https://github-readme-streak-stats.herokuapp.com/?user=joliwood&&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
