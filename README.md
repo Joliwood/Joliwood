@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Banner](https://github.com/Joliwood/Joliwood/blob/main/Gruvbox%20theme%20coffee.png?raw=true)
 
 # Hi 👋, I'm Guillaume Jolibois
@@ -59,3 +61,5 @@
 ![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=joliwood&show_icons=true&locale=en&layout=compact&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
 
 ![Strikes stats](https://github-readme-streak-stats.herokuapp.com/?user=joliwood&&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
+
+</div>
